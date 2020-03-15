@@ -4,7 +4,7 @@ blur_face
  
 ダウンロード
 
-workspaceにblur_face.pyとblur_faceフォルダを置きます
+workspaceにblur_face.pyとblur_faceフォルダとその中身のファイルを置きます
 
 使用方法
 
