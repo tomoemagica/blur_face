@@ -23,7 +23,9 @@ py blur_face.py -t 50.0
 
 機能
 
-data_src\alignedの下に、no_face(顔が検出できなかった)、not_blur(顔がピンボケや手ブレしていない)、blur(顔がピンボケや手ブレしている)
+data_src\alignedの下に、
+
+no_face(顔が検出できなかった)、not_blur(顔がピンボケや手ブレしていない)、blur(顔がピンボケや手ブレしている)
 
 3つのフォルダを作成して、それぞれ判定した顔画像をdata_src\alignedから移動します
 
