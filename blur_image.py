@@ -9,7 +9,7 @@ from pathlib import Path, PureWindowsPath
 
 
 ap = argparse.ArgumentParser()
-ap.add_argument("-t", "--threshold", type=float, default=10.0,
+ap.add_argument("-t", "--threshold", type=float, default=1.0,
                 help="focus measures that fall below this value will be considered 'blurry'")
 args = vars(ap.parse_args())
 
